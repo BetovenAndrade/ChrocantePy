@@ -1,0 +1,4 @@
+.vscode
+env
+temp/ListaDrives.xml
+ChromeDriver.zip
